@@ -1,0 +1,16 @@
+.app {
+  background-image: url("../../assets/images/Fast_Food_icons.jpg");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app > p {
+  max-width: 320px;
+  line-height: 1.4;
+  background: aliceblue;
+  padding: 10px 5px;
+}

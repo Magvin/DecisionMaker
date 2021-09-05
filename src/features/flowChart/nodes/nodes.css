@@ -1,0 +1,11 @@
+.node {
+  border: 1px solid grey;
+  background: #fff;
+  padding: 10px 20px;
+}
+.winner-node {
+  text-align: center;
+}
+.winner-node > h4 {
+  color: #ffb5c2;
+}
